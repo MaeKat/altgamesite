@@ -171,6 +171,8 @@
 #storyboardsDiv {
     margin-top: 4%;
     margin-bottom: 4%;
+    border-bottom-style: solid;
+    border-bottom-color: black;
 }
 
 #storyboards {
@@ -232,6 +234,11 @@ nav {
     margin: 0 auto; /* Added */
     float: none; /* Added */
     margin-bottom: 10px; /* Added */
+}
+
+#updates {
+    border-bottom-style: solid;
+    border-bottom-color: black;
 }
 
 #updates h2 {
